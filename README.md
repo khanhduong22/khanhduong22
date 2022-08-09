@@ -1,3 +1,4 @@
+<!---
 #### Đây là repositories của Dương Phúc Khánh.
 Tham khảo dự án đã deploy lên heroku tại đây
   * Bookngcare Clone (Full-Stack ReactJS + NodeJS)
@@ -10,7 +11,7 @@ Tham khảo CV tiếng anh của tôi:
 
 Một số side Project nhỏ để học tập khác:
   * Updating...
-<!---
+
 khanhduong22/khanhduong22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
