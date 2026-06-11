@@ -1,7 +1,7 @@
 # Duong Phuc Khanh 👋
 
 ### Senior Full-Stack Engineer | High-Throughput Systems & Database Optimization
-Thanh Khe, Da Nang, Vietnam | phuckhanh22@gmail.com | [LinkedIn](https://www.linkedin.com/in/khanhduong22)
+Thanh Khe, Da Nang, Vietnam | phuckhanh22@gmail.com
 
 ---
 
@@ -31,16 +31,16 @@ Results-driven **Senior Software Engineer** with **7+ years of professional expe
 * **ETL Pipeline**: Designed a 4-step ETL pipe (Scraper -> Staging Buffer -> TimescaleDB Hypertables with Continuous Aggregates -> Read-Only API Replica via postgres_fdw).
 * **Performance**: Implemented a 3-layer caching strategy (React Query -> Next.js ISR -> Redis L2) reducing db load and cutting latency to <5ms. Refactored frontend to Feature-Sliced Design (FSD), reducing bundle size by 8%.
 
-### 🎯 [Danang Chill Finder](https://github.com/khanhduong22/danang-chill-finder) — AI Spatial Cafe Recommender
-* **Overview**: AI-powered recommendation system for cafes in Da Nang.
-* **Tech**: Built with Next.js 16, Supabase, pgvector, and TailwindCSS. Employs vector similarity search for natural language cafe recommendations.
+### 📝 [MD Preview](https://github.com/khanhduong22/md-preview) — Markdown Assistant & PDF Exporter
+* **Overview**: Clean, GitHub-style Markdown live editor with custom PDF export and guided tours. Live at [md.khanhdp.com](https://md.khanhdp.com).
 
 ### 🧠 [RecSys Demo](https://github.com/khanhduong22/rec-sys-demo) — Real-Time Collaborative Filtering Engine
 * **Overview**: Client-side collaborative filtering and browser fingerprinting demo.
 * **Tech**: Next.js, TypeScript, browser fingerprinting, and interactive similarity matrix rendering.
 
-### 📝 [MD Preview](https://github.com/khanhduong22/md-preview) — Markdown Assistant & PDF Exporter
-* **Overview**: Clean, GitHub-style Markdown live editor with custom PDF export and guided tours. Live at [md.khanhdp.com](https://md.khanhdp.com).
+### 🎯 [Danang Chill Finder](https://github.com/khanhduong22/danang-chill-finder) — AI Spatial Cafe Recommender
+* **Overview**: AI-powered recommendation system for cafes in Da Nang.
+* **Tech**: Built with Next.js 16, Supabase, pgvector, and TailwindCSS. Employs vector similarity search for natural language cafe recommendations.
 
 ---
 
