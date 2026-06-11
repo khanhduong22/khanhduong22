@@ -35,11 +35,11 @@ Results-driven **Senior Software Engineer** with **7+ years of professional expe
 * **Overview**: Clean, GitHub-style Markdown live editor with custom PDF export and guided tours. Live at [md.khanhdp.com](https://md.khanhdp.com).
 
 ### 🧠 [RecSys Demo](https://github.com/khanhduong22/rec-sys-demo) — Real-Time Collaborative Filtering Engine
-* **Overview**: Client-side collaborative filtering and browser fingerprinting demo.
+* **Overview**: Client-side collaborative filtering and browser fingerprinting demo. Live at [rec-sys-demo.vercel.app](https://rec-sys-demo.vercel.app).
 * **Tech**: Next.js, TypeScript, browser fingerprinting, and interactive similarity matrix rendering.
 
 ### 🎯 [Danang Chill Finder](https://github.com/khanhduong22/danang-chill-finder) — AI Spatial Cafe Recommender
-* **Overview**: AI-powered recommendation system for cafes in Da Nang.
+* **Overview**: AI-powered recommendation system for cafes in Da Nang. Live at [danang-chill-finder.vercel.app](https://danang-chill-finder.vercel.app).
 * **Tech**: Built with Next.js 16, Supabase, pgvector, and TailwindCSS. Employs vector similarity search for natural language cafe recommendations.
 
 ---
