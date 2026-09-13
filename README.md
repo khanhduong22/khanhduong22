@@ -9,19 +9,20 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Contributions-2%2C700%2B%20%2F%20Year-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="2700+ Contributions" />
-  <img src="https://img.shields.io/badge/Core%20Contributor-%40idx--vn%20%7C%20%40AdPulHQ-1d4ed8?style=for-the-badge&logo=github&logoColor=white" alt="Organizations" />
+  <img src="https://img.shields.io/badge/Architecture-High--Throughput%20%26%20Distributed%20Systems-1d4ed8?style=for-the-badge&logo=postgresql&logoColor=white" alt="Architecture Focus" />
   <img src="https://img.shields.io/badge/AI%20Harness-Proprietary%20Agent%20Kit-7c3aed?style=for-the-badge&logo=anthropic&logoColor=white" alt="AI Harness" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khanhduong22&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanhduong22&layout=compact&theme=tokyonight" alt="Top Languages" height="175"/>
+  <a href="https://github.com/khanhduong22">
+    <img src="https://ghchart.rshah.org/2ea44f/khanhduong22" alt="Khanh Duong's GitHub Contributions Heatmap" width="100%" />
+  </a>
 </div>
 
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khanhduong22&theme=tokyonight" alt="GitHub Streak" height="80"/>
+<div align="center" style="margin-top: 15px;">
+  <img src="https://streak-stats.demolab.com/?user=khanhduong22&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
