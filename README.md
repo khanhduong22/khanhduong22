@@ -35,7 +35,7 @@ Results-driven **Senior Agentic Software Engineer** with **7+ years of professio
 
 ## 🛠️ Core Competencies & Tech Stack
 
-| **AI & AGENTIC (EXPERT)** | **BACKEND & DB (SENIOR)** | **FRONTEND & MOBILE** | **DEVOPS, CLOUD & APM** |
+| **AI & AGENTIC** | **BACKEND & DB** | **FRONTEND & MOBILE** | **DEVOPS, CLOUD & APM** |
 | :--- | :--- | :--- | :--- |
 | • **Daily Tooling**: Claude Code, Cursor, Antigravity, OpenAI Codex<br>• **Custom MCP**: Built custom DB & Memory MCP servers & gateway router<br>• **Context Architecture**: Hierarchical memory, token budgeting, project rules<br>• **Multi-Agent Harness**: Proprietary `agent-harness-kit` (70+ skills, worktrees, TDD) | • **Languages**: Node.js (NestJS), Python (FastAPI), Java, TypeScript<br>• **Databases & Cache**: PostgreSQL, ClickHouse, TimescaleDB, Redis<br>• **Queues & Realtime**: BullMQ, RabbitMQ, WebSockets, SSE<br>• **Architecture & Scale**: DDD, Event-Driven, Distributed Locks, Bitmask RBAC | • **Web & Mobile**: Next.js, React, Vue, Nuxt.js, React Native (Maps, Push)<br>• **Architecture**: Micro-Frontends (Module Federation), FSD, Monorepos<br>• **Performance**: Core Web Vitals (LCP/CLS), Code-Splitting, Virtual DOM/Lists<br>• **State & Types**: React Query, Pinia, Redux Toolkit, TypeScript | • **Cloud & Infrastructure**: AWS (Certified SAA), Cloudflare, Linux/Bash<br>• **Containers & CI/CD**: Docker, Docker Compose, GitHub Actions, Pipelines<br>• **APM & Monitoring**: SigNoz (OpenTelemetry), Prometheus, Grafana, Sentry, Uptime Kuma<br>• **7 Quality Gates**: Knip, SonarQube, Biome/ESLint, Vitest, Newman, Playwright, k6 |
 
