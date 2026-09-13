@@ -29,7 +29,7 @@
 
 ## 🚀 Professional Overview
 
-Results-driven **Senior Agentic Software Engineer** with **7+ years of professional experience** architecting high-throughput distributed systems and leading engineering teams. Creator of **`agent-harness-kit`** and custom **Model Context Protocol (MCP)** servers, pioneering agentic engineering workflows that unlock **4x full-stack delivery velocity** while maintaining strict architectural consistency through 7 automated verification gates. Proven track record in financial social networks, high-concurrency gateways (50k+ req/s), complex database optimization, and cross-functional leadership. Specialized in domain-driven microservices, resilient distributed architectures, and mentoring high-velocity engineering teams.
+Results-driven **Senior Agentic Software Engineer** with **7+ years of professional experience** architecting high-throughput distributed systems and leading engineering teams. Creator of **`agent-harness-kit`** and custom **Model Context Protocol (MCP)** servers, pioneering agentic engineering workflows that unlock **4x full-stack delivery velocity** while maintaining strict architectural consistency through 7 automated verification gates. Proven track record in financial social networks, high-concurrency gateways (50k+ req/s), complex database optimization, and cross-functional leadership. Specialized in domain-driven microservices, resilient distributed architectures, and mentoring high-velocity engineering teams for business impact.
 
 ---
 
