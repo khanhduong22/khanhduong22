@@ -1,7 +1,7 @@
-# Duong Phuc Khanh 👋
+# Duong Phuc Khanh (Kido) 👋
 
-### Senior Software Engineer (AI-assisted) | High-Throughput Systems & Custom Agent Harness Architecture
-📍 Da Nang, Vietnam | ✉️ phuckhanh22@gmail.com | 🌐 [github.com/khanhduong22](https://github.com/khanhduong22)
+> **Architecting High-Throughput Distributed Systems & AI-Augmented Engineering Platforms.**
+📍 Da Nang, Vietnam &nbsp;|&nbsp; ✉️ [phuckhanh22@gmail.com](mailto:phuckhanh22@gmail.com) &nbsp;|&nbsp; 📝 [md.khanhdp.com](https://md.khanhdp.com)
 
 ---
 
@@ -29,7 +29,7 @@
 
 ## 🚀 Professional Overview
 
-Results-driven **Senior Agentic Software Engineer** with **7+ years of professional experience** architecting high-throughput distributed systems and leading engineering teams. Creator of **`agent-harness-kit`** and custom **Model Context Protocol (MCP)** servers, pioneering agentic engineering workflows that unlock **4x full-stack delivery velocity** while maintaining strict architectural consistency through 7 automated verification gates. Proven track record in financial social networks, high-concurrency gateways (50k+ req/s), complex database optimization, and cross-functional leadership. Specialized in domain-driven microservices, resilient distributed architectures, and mentoring high-velocity engineering teams for business impact.
+Results-driven **Software Architect & Systems Engineer** with **7+ years of professional experience** architecting high-throughput distributed systems and leading engineering teams. Creator of **`agent-harness-kit`** and custom **Model Context Protocol (MCP)** servers, pioneering agentic engineering workflows that unlock **4x full-stack delivery velocity** while maintaining strict architectural consistency through 7 automated verification gates. Proven track record in financial social networks, high-concurrency gateways (50k+ req/s), complex database optimization, and cross-functional leadership. Specialized in domain-driven microservices, resilient distributed architectures, and mentoring high-velocity engineering teams for business impact.
 
 ---
 
