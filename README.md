@@ -1,7 +1,7 @@
 # Duong Phuc Khanh (Kido) 👋
 
 > **Architecting High-Throughput Distributed Systems & AI-Augmented Engineering Platforms.**
-📍 Da Nang, Vietnam &nbsp;|&nbsp; ✉️ [phuckhanh22@gmail.com](mailto:phuckhanh22@gmail.com) &nbsp;|&nbsp; 📝 [md.khanhdp.com](https://md.khanhdp.com)
+📍 Da Nang, Vietnam &nbsp;|&nbsp; ✉️ [phuckhanh22@gmail.com](mailto:phuckhanh22@gmail.com) &nbsp;|&nbsp; 🌐 [khanhdp.com](https://khanhdp.com) &nbsp;|&nbsp; 📖 [truyen.khanhdp.com](https://truyen.khanhdp.com) &nbsp;|&nbsp; 🎬 [Kode x Kido](https://khanhdp.com)
 
 ---
 
