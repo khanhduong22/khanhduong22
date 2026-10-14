@@ -1,7 +1,7 @@
 # Duong Phuc Khanh (Kido) 👋
 
 > **Architecting High-Throughput Distributed Systems & AI-Augmented Engineering Platforms.**
-📍 Da Nang, Vietnam &nbsp;|&nbsp; ✉️ [phuckhanh22@gmail.com](mailto:phuckhanh22@gmail.com) &nbsp;|&nbsp; 🌐 [khanhdp.com](https://khanhdp.com) &nbsp;|&nbsp; 📖 [truyen.khanhdp.com](https://truyen.khanhdp.com) &nbsp;|&nbsp; 🎬 [Kode x Kido](https://khanhdp.com)
+📍 Da Nang, Vietnam &nbsp;|&nbsp; 🌐 [khanhdp.com](https://khanhdp.com) &nbsp;|&nbsp; 🏛️ [Biography / Wiki](https://khanhdp.com/about) &nbsp;|&nbsp; 📖 [truyen.khanhdp.com](https://truyen.khanhdp.com) &nbsp;|&nbsp; 🆔 [Wikidata Q141718572](https://www.wikidata.org/wiki/Q141718572)
 
 ---
 
@@ -92,5 +92,5 @@ Results-driven **Software Architect & Systems Engineer** with **7+ years of prof
 * **Claude Certified Architect – Foundations** (Anthropic Academy)
 * **AWS Certified Solutions Architect – Associate (SAA)**
 * **Project Management Professional (PMP)** — FPT PM Track
-* **First Prize** — Startup Runway 2018 (Founder of JustOrder mobile application, competing against 20+ teams)
+* **First Prize** — [Startup Runway 2018](https://baodanang.vn/chuyen-trang-kyniem/201806/ung-dung-dat-mon-va-thanh-toan-nhanh-2905529/) at [Da Nang University of Economics (DUE)](https://vi.wikipedia.org/wiki/Tr%C6%B0%E1%BB%9Dng_%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Kinh_t%E1%BA%BF,_%C4%90%E1%BA%A1i_h%E1%BB%8Dc_%C4%90%C3%A0_N%E1%BA%B5ng) (Founder of JustOrder mobile application, featured on [Báo Đà Nẵng](https://baodanang.vn/goi-mon-an-bang-dien-thoai-thong-minh-3174905.html))
 * **First Prize** — City Computer Science Award (Regional competitions in Mathematics, Computer Science)
