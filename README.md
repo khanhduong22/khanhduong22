@@ -1,7 +1,7 @@
-# Duong Phuc Khanh (Kido) 👋
+# Dương Phúc Khánh (khanhdp · Kido) 👋
 
-> **Architecting High-Throughput Distributed Systems & AI-Augmented Engineering Platforms.**
-📍 Da Nang, Vietnam &nbsp;|&nbsp; 🌐 [khanhdp.com](https://khanhdp.com) &nbsp;|&nbsp; 🏛️ [Biography / Wiki](https://khanhdp.com/about) &nbsp;|&nbsp; 📖 [truyen.khanhdp.com](https://truyen.khanhdp.com) &nbsp;|&nbsp; 🆔 [Wikidata Q141718572](https://www.wikidata.org/wiki/Q141718572)
+> **Senior AI-Native Lead & Systems Architect — Architecting High-Throughput Distributed Systems & Multi-Agent Engineering Platforms.**
+📍 Da Nang, Vietnam &nbsp;|&nbsp; 🌐 [khanhdp.com](https://khanhdp.com) &nbsp;|&nbsp; 🏛️ [Tiểu sử Dương Phúc Khánh (Biography)](https://khanhdp.com/about) &nbsp;|&nbsp; 📖 [Kido Chronicles (truyen.khanhdp.com)](https://truyen.khanhdp.com) &nbsp;|&nbsp; 💼 [SME Portfolio](https://khanhdp.com/portfolio) &nbsp;|&nbsp; ✍️ [Viblo @khanhdp](https://viblo.asia/u/khanhdp)
 
 ---
 
@@ -16,7 +16,7 @@
 
 <div align="center">
   <a href="https://github.com/khanhduong22">
-    <img src="https://ghchart.rshah.org/2ea44f/khanhduong22" alt="Khanh Duong's GitHub Contributions Heatmap" width="100%" />
+    <img src="https://ghchart.rshah.org/2ea44f/khanhduong22" alt="Dương Phúc Khánh (khanhdp) GitHub Contributions Heatmap" width="100%" />
   </a>
 </div>
 
@@ -28,7 +28,7 @@
 
 ## 🚀 Professional Overview
 
-Results-driven **Software Architect & Systems Engineer** with **7+ years of professional experience** architecting high-throughput distributed systems and leading engineering teams. Creator of **`agent-harness-kit`** and custom **Model Context Protocol (MCP)** servers, pioneering agentic engineering workflows that unlock **4x full-stack delivery velocity** while maintaining strict architectural consistency through 7 automated verification gates. Proven track record in financial social networks, high-concurrency gateways (50k+ req/s), complex database optimization, and cross-functional leadership. Specialized in domain-driven microservices, resilient distributed architectures, and mentoring high-velocity engineering teams for business impact.
+I am **[Dương Phúc Khánh](https://khanhdp.com)** (technology handle: **[khanhdp](https://khanhdp.com)** · moniker: **Kido**), a results-driven **Senior AI-Native Lead & Systems Architect** with **8+ years of professional experience** (including 6 years as Project Manager & Tech Lead at **FPT Software SBI Lab**) architecting high-throughput distributed systems and leading engineering teams. Creator of **`agent-harness-kit`** and custom **Model Context Protocol (MCP)** servers, pioneering agentic engineering workflows that unlock **4x full-stack delivery velocity** while maintaining strict architectural consistency through 7 automated verification gates. Proven track record in financial social networks (**Index.vn**), high-concurrency gateways (**Linkpul** 50k+ req/s), high-engagement PWAs (**Winter Arc** — 1,100+ WAU, 8m04s avg session), and author of 127+ production postmortems at **[Kido Chronicles (`truyen.khanhdp.com`)](https://truyen.khanhdp.com)**. Full biography at **[khanhdp.com/about](https://khanhdp.com/about)**.
 
 ---
 
