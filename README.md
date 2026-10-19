@@ -1,7 +1,7 @@
 # Dương Phúc Khánh (khanhdp · Kido) — Systems Architect & AI Engineer 👋
 
 > **Senior AI-Native Lead & Systems Architect — Architecting High-Throughput Distributed Systems & Multi-Agent Engineering Platforms.**
-📍 Da Nang, Vietnam &nbsp;|&nbsp; 🌐 [khanhdp.com](https://khanhdp.com) &nbsp;|&nbsp; 🏛️ [Tiểu sử Dương Phúc Khánh (Biography)](https://khanhdp.com/about) &nbsp;|&nbsp; 📖 [Kido Chronicles (truyen.khanhdp.com)](https://truyen.khanhdp.com) &nbsp;|&nbsp; 🎬 [YouTube: Kode x Kido](https://www.youtube.com/@kode.x.kido) &nbsp;|&nbsp; 💼 [SME Portfolio](https://khanhdp.com/portfolio) &nbsp;|&nbsp; ✍️ [Viblo @khanhdp](https://viblo.asia/u/khanhdp)
+📍 Da Nang, Vietnam &nbsp;|&nbsp; 🌐 [khanhdp.com](https://khanhdp.com) &nbsp;|&nbsp; 🏛️ [Tiểu sử Dương Phúc Khánh (Biography)](https://khanhdp.com/about) &nbsp;|&nbsp; 📖 [Kido Chronicles (truyen.khanhdp.com)](https://truyen.khanhdp.com) &nbsp;|&nbsp; 🎬 [YouTube: Kode x Kido](https://www.youtube.com/@kodexkido) &nbsp;|&nbsp; 💼 [SME Portfolio](https://khanhdp.com/portfolio) &nbsp;|&nbsp; ✍️ [Viblo @khanhdp](https://viblo.asia/u/khanhdp)
 
 ---
 
@@ -28,7 +28,7 @@
 
 ## 🚀 Professional Overview
 
-I am **[Dương Phúc Khánh](https://khanhdp.com)** (canonical technology handle: **[khanhdp](https://khanhdp.com)** · moniker: **Kido**), a results-driven **Senior AI-Native Lead, Systems Architect & AI Engineer** with **8+ years of professional experience** (including 6 years as Project Manager & Tech Lead at **FPT Software SBI Lab**) architecting high-throughput distributed systems and leading engineering teams. Creator of **`agent-harness-kit`** and custom **Model Context Protocol (MCP)** servers, pioneering agentic engineering workflows that unlock **4x full-stack delivery velocity** while maintaining strict architectural consistency through 7 automated verification gates. Proven track record in financial social networks (**Index.vn**), high-concurrency gateways (**Linkpul** 50k+ req/s), high-engagement PWAs (**Winter Arc** — 1,100+ WAU, 8m04s avg session), and author of 127+ production postmortems at **[Kido Chronicles (`truyen.khanhdp.com`)](https://truyen.khanhdp.com)** and **[Kode x Kido (YouTube)](https://www.youtube.com/@kode.x.kido)**. Full biography at **[Dương Phúc Khánh - Systems Architect & AI Engineer (`khanhdp.com/about`)](https://khanhdp.com/about)**.
+I am **[Dương Phúc Khánh](https://khanhdp.com)** (canonical technology handle: **[khanhdp](https://khanhdp.com)** · moniker: **Kido**), a results-driven **Senior AI-Native Lead, Systems Architect & AI Engineer** with **8+ years of professional experience** (including 6 years as Project Manager & Tech Lead at **FPT Software SBI Lab**) architecting high-throughput distributed systems and leading engineering teams. Creator of **`agent-harness-kit`** and custom **Model Context Protocol (MCP)** servers, pioneering agentic engineering workflows that unlock **4x full-stack delivery velocity** while maintaining strict architectural consistency through 7 automated verification gates. Proven track record in financial social networks (**Index.vn**), high-concurrency gateways (**Linkpul** 50k+ req/s), high-engagement PWAs (**Winter Arc** — 1,100+ WAU, 8m04s avg session), and author of 127+ production postmortems at **[Kido Chronicles (`truyen.khanhdp.com`)](https://truyen.khanhdp.com)** and **[Kode x Kido (YouTube)](https://www.youtube.com/@kodexkido)**. Full biography at **[Dương Phúc Khánh - Systems Architect & AI Engineer (`khanhdp.com/about`)](https://khanhdp.com/about)**.
 
 ---
 
