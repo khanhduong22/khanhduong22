@@ -1,7 +1,7 @@
 # Dương Phúc Khánh (khanhdp · Kido) — Senior Software Development Engineer & Systems Architect 👋
 
 > **Architecting High-Throughput Back-End Systems, Modern Web Platforms & Multi-Agent Engineering Workflows.**
-📍 Da Nang, Vietnam &nbsp;|&nbsp; 🌐 [khanhdp.com](https://khanhdp.com) &nbsp;|&nbsp; 🤖 [agent-harness-kit](https://github.com/khanhduong22/agent-harness-kit) &nbsp;|&nbsp; 📝 [md.khanhdp.com](https://md.khanhdp.com) &nbsp;|&nbsp; 🎬 [YouTube: Kode x Kido](https://www.youtube.com/@kodexkido) &nbsp;|&nbsp; ✍️ [Viblo @khanhdp](https://viblo.asia/u/khanhdp)
+📍 Da Nang, Vietnam &nbsp;|&nbsp; 🌐 [khanhdp.com](https://khanhdp.com) &nbsp;|&nbsp; 🤖 [agent-harness-kit](https://github.com/khanhduong22/agent-harness-kit) &nbsp;|&nbsp; 📝 [md.khanhdp.com](https://md.khanhdp.com)
 
 ---
 
@@ -58,3 +58,7 @@
 | **[agent-harness-kit](https://github.com/khanhduong22/agent-harness-kit)** | [github.com/khanhduong22/agent-harness-kit](https://github.com/khanhduong22/agent-harness-kit) | Portable AI agent skills, verification gates, and multi-agent worktree orchestration. | TypeScript, Bash, MCP |
 | **[md-preview](https://github.com/khanhduong22/md-preview)** | [md.khanhdp.com](https://md.khanhdp.com) | Client-side Markdown workspace, diagram renderer, and A4 PDF compiler. | TypeScript, Vite, CSS |
 | **[RecSys Demo](https://github.com/khanhduong22/rec-sys-demo)** | [rec-sys-demo.vercel.app](https://rec-sys-demo.vercel.app) | Client-side collaborative filtering recommendation engine. | React, TypeScript |
+
+---
+
+<sub>🌐 <a href="https://khanhdp.com">khanhdp.com</a> · 📖 <a href="https://truyen.khanhdp.com">Kido Chronicles</a> · 🎬 <a href="https://www.youtube.com/@kodexkido">YouTube (Kode x Kido)</a> · ✍️ <a href="https://viblo.asia/u/khanhdp">Viblo</a> · <a href="https://dev.to/khanhduong22">DEV</a> · <a href="https://medium.com/@khanhdev4">Medium</a> · <a href="https://khanhduong22.hashnode.dev">Hashnode</a></sub>
