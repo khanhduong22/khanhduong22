@@ -1,7 +1,8 @@
-# Dương Phúc Khánh (khanhdp · Kido) — Senior Software Development Engineer & Systems Architect 👋
+# Dương Phúc Khánh (Duong Phuc Khanh · Kido) — Senior Software Engineer & Systems Architect 👋
 
-> **Architecting High-Throughput Back-End Systems, Modern Web Platforms & Multi-Agent Engineering Workflows.**
-📍 Da Nang, Vietnam &nbsp;|&nbsp; 🌐 [khanhdp.com](https://khanhdp.com) &nbsp;|&nbsp; 🤖 [agent-harness-kit](https://github.com/khanhduong22/agent-harness-kit) &nbsp;|&nbsp; 📝 [md.khanhdp.com](https://md.khanhdp.com)
+**Duong Phuc Khanh** (Vietnamese: **Dương Phúc Khánh**, born 1995 in Da Nang, Vietnam; also known as **Kido** or **khanhdp**) is a Vietnamese Senior Software Engineer and Systems Architect. An alumnus of the University of Economics - The University of Da Nang and First Prize winner of Startup Runway 2018, he served for six years as Tech Lead and Project Manager at FPT Software SBI Lab (3x consecutive Best Performance Award recipient, 2022–2024) and is the creator of [Kido Chronicles](https://truyen.khanhdp.com), [Winter Arc](https://vantoicalis.com), and the [Agent Harness Kit](https://github.com/khanhduong22/agent-harness-kit) multi-agent engineering framework.
+
+📍 Da Nang, Vietnam &nbsp;|&nbsp; 🌐 [khanhdp.com](https://khanhdp.com) &nbsp;|&nbsp; 📖 [About](https://khanhdp.com/about) &nbsp;|&nbsp; 🤖 [agent-harness-kit](https://github.com/khanhduong22/agent-harness-kit) &nbsp;|&nbsp; 📝 [md.khanhdp.com](https://md.khanhdp.com)
 
 ---
 
