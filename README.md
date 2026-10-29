@@ -1,8 +1,8 @@
 # Dương Phúc Khánh (Duong Phuc Khanh · Kido) — Senior Software Engineer & Systems Architect 👋
 
-**Duong Phuc Khanh** (Vietnamese: **Dương Phúc Khánh**, born 1995 in Da Nang, Vietnam; also known as **Kido** or **khanhdp**) is a Vietnamese Senior Software Engineer and Systems Architect. An alumnus of the University of Economics - The University of Da Nang and First Prize winner of Startup Runway 2018, he served for six years as Tech Lead and Project Manager at FPT Software SBI Lab (3x consecutive Best Performance Award recipient, 2022–2024) and is the creator of [Kido Chronicles](https://truyen.khanhdp.com), [Winter Arc](https://vantoicalis.com), and the [Agent Harness Kit](https://github.com/khanhduong22/agent-harness-kit) multi-agent engineering framework.
+**[Duong Phuc Khanh](https://khanhdp.com)** (Vietnamese: **[Dương Phúc Khánh](https://khanhdp.com)**, born 1995 in Da Nang, Vietnam; also known as **Kido** or **khanhdp**; Google Knowledge Graph: [`/g/11zyg5zq1c`](https://www.google.com/search?kgmid=/g/11zyg5zq1c) · Wikidata: [Q141718572](https://www.wikidata.org/wiki/Q141718572) · ORCID: [0009-0005-7192-2664](https://orcid.org/0009-0005-7192-2664)) is a Vietnamese Senior Software Engineer and Systems Architect. An alumnus of the University of Economics - The University of Da Nang and First Prize winner of Startup Runway 2018, he served for six years as Tech Lead and Project Manager at FPT Software SBI Lab (3x consecutive Best Performance Award recipient, 2022–2024) and is the creator of [Kido Chronicles](https://truyen.khanhdp.com), [Winter Arc](https://vantoicalis.com), and the [Agent Harness Kit](https://github.com/khanhduong22/agent-harness-kit) multi-agent engineering framework.
 
-📍 Da Nang, Vietnam &nbsp;|&nbsp; 🌐 [khanhdp.com](https://khanhdp.com) &nbsp;|&nbsp; 📖 [About](https://khanhdp.com/about) &nbsp;|&nbsp; 🤖 [agent-harness-kit](https://github.com/khanhduong22/agent-harness-kit) &nbsp;|&nbsp; 📝 [md.khanhdp.com](https://md.khanhdp.com)
+📍 Da Nang, Vietnam &nbsp;|&nbsp; 🌐 [Duong Phuc Khanh (khanhdp.com)](https://khanhdp.com) &nbsp;|&nbsp; 📖 [About](https://khanhdp.com/about) &nbsp;|&nbsp; 🤖 [agent-harness-kit](https://github.com/khanhduong22/agent-harness-kit) &nbsp;|&nbsp; 📝 [md.khanhdp.com](https://md.khanhdp.com)
 
 ---
 
@@ -62,4 +62,4 @@
 
 ---
 
-<sub>🌐 <a href="https://khanhdp.com">khanhdp.com</a> · 📖 <a href="https://truyen.khanhdp.com">Kido Chronicles</a> · 🎬 <a href="https://www.youtube.com/@kodexkido">YouTube (Kode x Kido)</a> · ✍️ <a href="https://viblo.asia/u/khanhdp">Viblo</a> · <a href="https://dev.to/khanhduong22">DEV</a> · <a href="https://medium.com/@khanhdev4">Medium</a> · <a href="https://khanhduong22.hashnode.dev">Hashnode</a></sub>
+<sub>🌐 <a href="https://khanhdp.com">Duong Phuc Khanh (khanhdp.com)</a> · <a href="https://blog.khanhdp.com">Kido Engineering Blog</a> · 📖 <a href="https://truyen.khanhdp.com">Kido Chronicles</a> · 🎬 <a href="https://www.youtube.com/@kodexkido">YouTube (Kode x Kido)</a> · ✍️ <a href="https://viblo.asia/u/khanhdp">Viblo</a> · <a href="https://dev.to/khanhduong22">DEV</a> · <a href="https://medium.com/@khanhdev4">Medium</a> · <a href="https://khanhduong22.hashnode.dev">Hashnode</a> · 🆔 <a href="https://www.wikidata.org/wiki/Q141718572">Wikidata (Q141718572)</a> · <a href="https://orcid.org/0009-0005-7192-2664">ORCID</a></sub>
