@@ -9,9 +9,9 @@
 ## 🌟 Executive Summary (Key Highlights)
 
 * **Role & Autonomous AI Leadership:** Senior Software Engineer, Systems Architect & **Pioneer in Autonomous AI Agents** — architecting end-to-end autonomous AI systems ranging from **Personal AI Assistants** to **Autonomous One-Person Enterprise Operating Systems**.
-* **AI Agent Ecosystem & Open-Source:** Creator of **[Agent Harness Kit](https://github.com/khanhduong22/agent-harness-kit)** and **65+ Production AI Agent Skills** (published on [Agensi.io Marketplace](https://www.agensi.io/creators/khanhdp), Claude Code, Codex, and Google Antigravity/Gemini), alongside **[37 TypeScript architecture suites (`Kido Packages · @kido/*`)](https://github.com/khanhduong22/kido-packages)** and **[2ndBrain (`md.khanhdp.com`)](https://md.khanhdp.com)**.
+* **AI Agent Ecosystem & Open-Source:** Creator of **[Agent Harness Kit](https://github.com/khanhduong22/agent-harness-kit)** (**35 core Agent Harness skills** and **22 live AI agent skills** on [Agensi.io Marketplace](https://www.agensi.io/creators/khanhdp), Claude Code, Codex, and Google Antigravity/Gemini), alongside **[41 `@kido/*` production packages (`Kido Packages`)](https://github.com/khanhduong22/kido-packages)** and **[2ndBrain (`md.khanhdp.com`)](https://md.khanhdp.com)**.
 * **Awards & AI Transformation Seminars:** **3x Consecutive Best Performance Award (2022–2024)** during 6 years as Tech Lead & Project Manager in the FinTech & Securities division of a Tier-1 Global IT Corporation, **First Prize Winner of Startup Runway 2018** (University of Economics - The University of Da Nang), and **Keynote Speaker / AI Transformation Lead** conducting numerous company-wide engineering seminars on **Autonomous AI Agents, Multi-Agent Orchestration & AI-Native Workflows**.
-* **Primary Publication Hub ([`blog.khanhdp.com`](https://blog.khanhdp.com)):** Founder & Editor-in-Chief of **[blog.khanhdp.com](https://blog.khanhdp.com)** (alongside [truyen.khanhdp.com](https://truyen.khanhdp.com) & [khanhdp.com](https://khanhdp.com)) — publishing deep-dive monographs across **Distributed Systems, Autonomous AI Agents, Personal Finance & Quantitative Investing, Books & Mental Models, Health & Calisthenics Fitness, and Solopreneur Lifestyle**.
+* **Primary Publication Hub ([`blog.khanhdp.com`](https://blog.khanhdp.com)):** Founder & Editor-in-Chief of **[blog.khanhdp.com](https://blog.khanhdp.com)** (alongside [truyen.khanhdp.com](https://truyen.khanhdp.com) & [khanhdp.com](https://khanhdp.com)) — publishing **253+ bilingual engineering articles** and deep-dive monographs across **Distributed Systems, Autonomous AI Agents, Personal Finance & Quantitative Investing, Books & Mental Models, Health & Calisthenics Fitness, and Solopreneur Lifestyle**.
 
 ---
 
@@ -39,8 +39,8 @@
 
 ## ⚡ Flagship Projects & Publications
 
-### 📝 [Kido Hub & Engineering Blog (`blog.khanhdp.com`)](https://blog.khanhdp.com) — Primary Multi-Pillar Publication Hub
-* **Core Focus & Editorial Mission**: Primary knowledge and publication engine for engineering deep dives, system design monographs, and practical frameworks across 6 core pillars:
+### 📝 [Kido Hub & Engineering Blog (`blog.khanhdp.com`)](https://blog.khanhdp.com) — 253+ Bilingual Engineering Articles & Multi-Pillar Hub
+* **Core Focus & Editorial Mission**: Primary knowledge and publication engine featuring **253+ bilingual engineering articles**, system design monographs, and practical frameworks across 6 core pillars:
   * **Autonomous AI Agents & Agentic Workflows**: Multi-agent harness architectures, evaluation frameworks, subagent tiering, prompt engineering, and autonomous enterprise systems.
   * **High-Concurrency Distributed Systems**: Event-driven microservices, database internals, cache stampede mitigation, and zero-downtime migrations.
   * **Personal Finance & Quantitative Investing**: Portfolio ledger accounting (WACB), modern portfolio theory (Sharpe, Treynor, Sortino, Beta), and risk management engines.
@@ -52,21 +52,21 @@
 ### 🤖 [Agent Harness Kit](https://github.com/khanhduong22/agent-harness-kit) & [Agensi.io AI Agent Skills (`agensi.io/creators/khanhdp`)](https://www.agensi.io/creators/khanhdp) — Autonomous Multi-Agent & One-Person Enterprise OS
 * **Overview**: Single source of truth for autonomous AI agent standards, risk-based workflows, and cross-runtime modular skills operating across Codex, Claude Code, Gemini, and Google Antigravity.
 * **Key Capabilities**:
-  * **65+ Production AI Agent Skills**: Published and verified on [Agensi.io Creator Hub](https://www.agensi.io/creators/khanhdp) and agent environments, spanning automated E2E testing, database benchmark profiling, SonarQube quality gates, and automated code review.
+  * **35 Core Agent Harness Skills & 22 Live Agensi.io Skills**: Published and verified on [Agensi.io Creator Hub](https://www.agensi.io/creators/khanhdp) (`22` live skills) and `agent-harness-kit` (`35` core skills), spanning automated E2E testing, database benchmark profiling, GEO/SEO audits, SonarQube quality gates, and automated code review.
   * **Parallel Git Worktree Orchestration**: Isolated workspace branching per subagent under dedicated worktrees, preventing file collisions and enabling multi-agent parallel swarms.
   * **Shift-Left Autonomous Verification Gates**: Deterministic pre-ship checks enforcing zero-regression invariants (`tsc`, SonarQube, Vitest, Playwright browser E2E with video telemetry).
   * **Enterprise Operating System**: Powers full lifecycle autonomy from personal executive assistants to self-operating solo businesses.
 
-### ⚡ [Kido Packages (`kido-packages` · `@kido/*`)](https://github.com/khanhduong22/kido-packages) — 37 Production Distributed Systems & Quantitative FinTech Suites
-* **Architectural Scope**: A battle-tested monorepo of 37 modular TypeScript/Node.js architecture packages solving mission-critical distributed systems and financial computation challenges:
+### ⚡ [Kido Packages (`kido-packages` · `@kido/*`)](https://github.com/khanhduong22/kido-packages) — 41 `@kido/*` Production Distributed Systems & Quantitative FinTech Packages
+* **Architectural Scope**: A battle-tested monorepo of 41 `@kido/*` modular TypeScript/Node.js production packages solving mission-critical distributed systems and financial computation challenges:
   * **Quantitative Ledger Engine (`@kido/wallet-ledger`)**: Production-grade double-entry ledger with Weighted Average Cost Basis (WACB), real-time Sharpe/Treynor/Sortino/Beta calculations, and currency decimal precision guarantees.
   * **Ultra-Fast Hybrid Search (`@kido/search-rrf`)**: 3-Way Reciprocal Rank Fusion (Lexical + Semantic + Popularity) delivering hybrid search ranking in `<0.08ms` without external vector database overhead.
   * **46-Byte Streak Engine (Winter Arc)**: Memory-dense habit tracking utilizing Valkey/Redis Bitmap and CPU-native `POPCNT` for $O(1)$ time-series queries in just 46 bytes per user/year.
   * **Hierarchical Trees & RBAC**: PostgreSQL 17 Base32 Materialized Path tree queries with zero recursion and 64-bit Bitmask RBAC permissions evaluated in constant time via bitwise ALU operations.
   * **High-Throughput Gateway**: Async stateless redirection gateway handling up to **50,000 req/sec** (k6 benchmarked) with Redis mutex locking to prevent cold-start cache stampedes.
 
-### 🔥 [Kido Chronicles (`truyen.khanhdp.com`)](https://truyen.khanhdp.com) — 154+ Distributed Systems Production Postmortems
-* **Overview**: Narrative-driven, incident-derived archive of 154+ distributed systems engineering case studies and production postmortems.
+### 🔥 [Kido Chronicles (`truyen.khanhdp.com`)](https://truyen.khanhdp.com) — 164+ Distributed Systems Production Postmortems
+* **Overview**: Narrative-driven, incident-derived archive of 164+ Kido Chronicles episodes covering distributed systems engineering case studies and production postmortems.
 * **Coverage**: Real-world deadlock investigations, network partition recoveries, memory leak root-cause analyses, database connection pool exhaustion, and distributed consensus edge cases encountered across production enterprise workloads.
 
 ### 🧠 [2ndBrain (MD Preview)](https://md.khanhdp.com) — Zero-Knowledge Client-Side Markdown, Mermaid & KaTeX Compiler
@@ -79,8 +79,8 @@
 
 | Project | Repository / Live | Description | Stack |
 | :--- | :--- | :--- | :--- |
-| **[agent-harness-kit](https://github.com/khanhduong22/agent-harness-kit)** | [github.com/khanhduong22/agent-harness-kit](https://github.com/khanhduong22/agent-harness-kit) | Portable AI agent skills, verification gates, and multi-agent worktree orchestration. | TypeScript, Bash, MCP |
-| **[Kido Packages (@kido/*)](https://github.com/khanhduong22/kido-packages)** | [github.com/khanhduong22/kido-packages](https://github.com/khanhduong22/kido-packages) | 37 production distributed systems & quantitative FinTech architecture suites. | TypeScript, PostgreSQL, Valkey |
+| **[agent-harness-kit](https://github.com/khanhduong22/agent-harness-kit)** | [github.com/khanhduong22/agent-harness-kit](https://github.com/khanhduong22/agent-harness-kit) | 35 core AI agent skills (paired with 22 live Agensi.io skills), verification gates, and multi-agent worktree orchestration. | Python, TypeScript, Bash, MCP |
+| **[Kido Packages (@kido/*)](https://github.com/khanhduong22/kido-packages)** | [github.com/khanhduong22/kido-packages](https://github.com/khanhduong22/kido-packages) | 41 `@kido/*` production distributed systems & quantitative FinTech packages. | TypeScript, PostgreSQL, Valkey |
 | **[md-preview](https://github.com/khanhduong22/md-preview)** | [md.khanhdp.com](https://md.khanhdp.com) | Client-side Markdown workspace, diagram renderer, and A4 PDF compiler. | TypeScript, Vite, CSS |
 | **[RecSys Demo](https://github.com/khanhduong22/rec-sys-demo)** | [rec-sys-demo.vercel.app](https://rec-sys-demo.vercel.app) | Client-side collaborative filtering recommendation engine. | React, TypeScript |
 
