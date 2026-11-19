@@ -27,7 +27,11 @@
 
 <div align="center">
   <a href="https://github.com/khanhduong22">
-    <img src="https://gitlyy.vercel.app/api/contribution?username=khanhduong22&hide_border=true" alt="Dương Phúc Khánh (khanhdp · Kido) GitHub Contributions Heatmap" width="100%" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/contributions-light.svg" />
+      <img src="./assets/contributions-dark.svg" alt="Dương Phúc Khánh (khanhdp · Kido) GitHub Contributions Heatmap" width="100%" />
+    </picture>
   </a>
 </div>
 

@@ -1,0 +1,36 @@
+name: Update Contribution Heatmap
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-contributions-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  update-heatmap:
+    name: Regenerate Numbered Contribution SVGs
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate dark and light contribution SVGs
+        run: python3 scripts/generate_heatmap.py --username khanhduong22 --out-dir assets
+
+      - name: Commit updated SVGs if changed
+        run: |
+          if git diff --quiet assets/ && [ -z "$(git ls-files --others --exclude-standard assets/)" ]; then
+            echo "No changes to contribution SVGs."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/
+          git commit -m "chore(profile): refresh numbered contribution heatmap SVGs"
+          git push
