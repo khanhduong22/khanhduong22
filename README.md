@@ -27,7 +27,7 @@
 
 <div align="center">
   <a href="https://github.com/khanhduong22">
-    <img src="https://ghchart.rshah.org/2ea44f/khanhduong22" alt="Dương Phúc Khánh (khanhdp · Kido) GitHub Contributions Heatmap" width="100%" />
+    <img src="https://gitlyy.vercel.app/api/contribution?username=khanhduong22&hide_border=true" alt="Dương Phúc Khánh (khanhdp · Kido) GitHub Contributions Heatmap" width="100%" />
   </a>
 </div>
 
